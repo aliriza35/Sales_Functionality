@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         glue = "cydeo/step_definitions",
         dryRun = false,
         stepNotifications = true,
-        tags = "@logout"
+        tags = "@BRT-787"
 )
 
 public class CukesRunner {
